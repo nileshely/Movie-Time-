@@ -1,1 +1,4 @@
-# Movie-Time-
+# Movie Time!
+
+**Description:**
+The movie dataset comprises detailed information on 5,043 films, capturing a diverse array of cinematic characteristics encompassing both artistic and commercial elements. Each entry in the dataset provides comprehensive data points including color classification, director information such as their Facebook likes and the number of reviews for their films, details on the top three actors with their respective Facebook likes, and other relevant social metrics. Additionally, it encompasses performance metrics such as box office gross, user reviews, and IMDb votes, along with content descriptions like genres, plot keywords, and production details including release year, language, country of origin, and production budget. Social media metrics such as movie Facebook likes and cinematographic aspects like aspect ratio and IMDb score are also included, providing a holistic view for potential analysis and exploration within the realm of movie data science.
